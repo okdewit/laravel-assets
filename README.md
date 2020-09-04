@@ -1,6 +1,6 @@
 # [laravel-assets](http://roumen.it/projects/laravel-assets) package
 
-A simple assets manager for Laravel 5 (...and 6?)
+A simple assets manager for Laravel 5 (...and 6? and 7?)
 
 ## Notes
 
