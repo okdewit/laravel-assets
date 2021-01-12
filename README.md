@@ -4,7 +4,7 @@ A simple assets manager for Laravel 5 (...and 6? and 7?)
 
 ## Notes
 
-This is a fork of the archived https://github.com/Laravelium/laravel-assets repository, for the purpose of making it compatible with Laravel 6.
+This is a fork of the archived https://github.com/Laravelium/laravel-assets repository, for the purpose of making it compatible with newer Laravel versions.
 
 To install, add this repository to your composer:
 
